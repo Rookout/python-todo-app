@@ -1,1 +1,1 @@
-# java-todo-app
+# python-todo-app
